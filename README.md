@@ -1,0 +1,2 @@
+# Recommendation_Systems-ARL-and-CF
+Recommendation systems are most widely preffered from marketing strategies. Their popularity comes from close prediction scores obtained from relationships of users and items. In this project, two recommendation systems are used for two different datasets: Association Recommendation Learning and Collaborative Filtering. Please read the description for more info.
