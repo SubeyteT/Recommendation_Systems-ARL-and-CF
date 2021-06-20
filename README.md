@@ -40,5 +40,4 @@ Kaynakça:
 3. Oğuzlar, A . (2004). VERİ MADENCİLİĞİNDE BİRLİKTELİK KURALLARI . Öneri Dergisi , 6 (22) , 315-321 . DOI: 10.14783/maruoneri.678958
 4. https://burakdogrul.medium.com/overview-of-recommender-systems-and-implementations-cae13088369
 5. H. Bulut ve M. Milli, “New prediction methods for collaborative filtering”, Pamukkale J Eng Sci, c. 22, sy 2, ss. 123-128, 2016, doi: 10.5505/pajes.2014.44227.
-6. 
 
